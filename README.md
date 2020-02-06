@@ -10,3 +10,10 @@ You have been appointed as the Lead Data Analyst to build a predictive model to 
 
 Solution:-
   Will be uploading my code and documenting my approach soon
+  
+  
+  
+  
+Result: Ranked 16 (not bad considering the amount of time i spent on the problem)  
+  
+  
